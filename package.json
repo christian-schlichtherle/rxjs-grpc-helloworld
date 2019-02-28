@@ -1,7 +1,6 @@
 {
-  "name": "rxjs-grpc-helloworld",
-  "version": "0.0.1",
-  "description": "Helloworld example for rxjs-grpc",
+  "name": "rxjs-grpc-hello-world",
+  "description": "A simple example for rxjs-grpc with streaming response.",
   "license": "MIT",
   "repository": {
     "type": "git",
